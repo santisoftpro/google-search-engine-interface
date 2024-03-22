@@ -112,12 +112,12 @@ body {
 }
 
 .searchContainer #searchButton {
-    background: #f8f9fa;
-    color: #3c4043;
+    background: #1d6ab8;
+    color: #ffffff;
     border: 1px solid #f8f9fa;
-    border-radius: 5px;
+    border-radius: 10px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 14px;
+    font-size: 20px;
     padding: 0 16px;
     line-height: 27px;
     height: 36px;
@@ -125,6 +125,7 @@ body {
     text-align: center;
     cursor: pointer;
     user-select: none;
+
 }
 
 .searchContainer #searchButton:hover {
